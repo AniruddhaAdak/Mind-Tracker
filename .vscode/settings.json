@@ -1,0 +1,11 @@
+{
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.newWorkspaceCreation.enabled": true,
+    "editor.fontSize": 15,
+    "chat.editor.fontSize": 15,
+    "inlineChat.finishOnType": false,
+    "chat.editor.lineHeight": 0,
+    "terminal.integrated.fontSize": 15,
+    "window.zoomLevel": 0,
+    "files.autoSave": "onFocusChange"
+}
