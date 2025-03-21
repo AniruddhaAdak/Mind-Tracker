@@ -1,20 +1,74 @@
-# Mind Tracker: Personal Mental Health Journal
-
 *This is a submission for the [KendoReact Free Components Challenge](https://dev.to/challenges/kendoreact).*
 
 ## What I Built
 
-I've created a personal mind tracking application that helps users monitor their mental health journey. As someone who values mental wellness and self-reflection, I wanted a beautiful, intuitive tool to document my thoughts, track my moods, and identify patterns in my emotional well-being.
+I've created a personal mind tracking application that helps users monitor their mental health journey. 
 
-Mind Tracker is my passion project that came to life using KendoReact's amazing free components. I struggled to find a journaling app that was both aesthetically pleasing and functionally rich, so I decided to build my own! The multi-step entry creation process makes journaling feel less overwhelming, and the beautiful charts help me visualize my emotional patterns over time.
+As someone who _values mental wellness and self-reflection_ 😌, I wanted a beautiful, intuitive tool to document my thoughts, track my moods, and identify patterns in my emotional well-being.
 
-### Demo
+Mind Tracker is my passion project that came to life using KendoReact's amazing free components. I struggled to find a journaling app that was both aesthetically pleasing and functionally rich, so I decided to build my own! 
 
-You can experience Mind Tracker here: [Mind Tracker Demo](https://mind-tracker-demo.netlify.app)
+The multi-step entry creation process makes journaling feel less overwhelming, and the beautiful charts help me visualize my emotional patterns over time.
 
-![Mind Tracker Screenshot](./screenshots/main-view.png)
+## Demo
 
-Check out the source code: [GitHub Repository](https://github.com/yourusername/mind-tracker)
+https://www.loom.com/share/ee50aad32e194cb0b7a4e77fd2e98836?sid=927aab46-e657-477b-a2ae-a155425c2971 
+
+### Dashboard:🔽
+![Dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ztsq6rr8vryg7zolb32j.png)
+
+### Set a New Reminder:🔽
+![Set a New Reminder](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8jt2czsceg3u38hn367b.png)
+
+### Mood Pattern Analysis:🔽
+![Mood Pattern Analysis](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jixcpfleau934o90ndfd.png)
+
+### Mind Tracker:🔽
+![Mind Tracker](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t3kf1li8jrtrgpsnqfyl.png)
+
+### Calendar:🔽
+![Calendar](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/geix50l4ajcstjqu0syp.png)
+
+### New Entry:🔽
+![New Entry](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jqskeudoop1ty9m1cafp.png)
+
+
+
+![Imagption](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rllijgr4lhb4ou2sdzu.png)
+
+![Image dption](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kuxhiwdfl9zwwrrp4ypc.png)
+
+![Imag](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5hecy3j1wlmebm0ylgsb.png)
+
+![Ipop](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s8eqly3htzwjz4uphguc.png)
+
+### Journal Entries:🔽
+![Journal Entries](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8a3m0sftn3yatixv0721.png)
+
+
+### Statistics:🔽
+![Statistics](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/clylsqown8hhg370c0yj.png)
+
+
+![Iman](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ndbiqzj4ib6k8dx9hqnl.png)
+
+
+![Image dion](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1awn0707lr71edsmbr5g.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check out the source code: [GitHub Repository](https://github.com/AniruddhaAdak/Mind-Tracker/edit/main/Kendo/mind-tracker)
 
 ## KendoReact Experience
 
@@ -41,7 +95,6 @@ For users, I implemented a simple sentiment analysis feature that processes jour
 
 I started by exploring the KendoUI Figma Kits to plan the visual design:
 
-![Design Process](./screenshots/design-process.png)
 
 Using ThemeBuilder, I customized the color palette to create a calming, therapeutic aesthetic. I wanted colors that would evoke a sense of peace and reflection. The blues and purples I selected have been shown to promote calmness and introspection.
 
@@ -51,4 +104,6 @@ Working with the KendoReact styling system was intuitive - I could easily extend
 
 ---
 
-Building Mind Tracker with KendoReact has been one of my most enjoyable development experiences. I've already started using it daily for my own journaling, and it's helping me understand my emotional patterns in ways I never expected. I'm excited to continue enhancing it with more features and sharing it with others who might benefit from this tool for mental wellness.
+Building Mind Tracker with KendoReact has been one of my most enjoyable development experiences. I've already started using it daily for my own journaling, and it's helping me understand my emotional patterns in ways I never expected. 
+
+_I'm excited to continue enhancing it with more features and sharing it with others who might benefit from this tool for mental wellness._
